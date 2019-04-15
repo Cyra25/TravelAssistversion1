@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">TravelAssist-version1</string>
+    <string name="action_settings">Settings</string>
+    <string name="home">home</string>
+    <string name="setting">setting</string>
+
+    <string-array name="translateFrom">
+        <item name="english">English</item>
+        <item name="chinese">Chinese</item>
+        <item name="japanese">Japanese</item>
+        <item name="myanmar">Myanmar</item>
+    </string-array>
+
+    <string-array name="translateTo">
+        <item name="english">English</item>
+        <item name="chinese">Chinese</item>
+        <item name="japanese">Japanese</item>
+        <item name="myanmar">Myanmar</item>
+    </string-array>
+
+    <string name="helloEN">Hello</string>
+    <string name="thanksEN">Thank You</string>
+    <string name="welcomeEN">You are welcome</string>
+    <string name="sorryEN">I am sorry</string>
+    <string name="byeEN">Bye bye</string>
+    <string name="costEN">How much is it?</string>
+    <string name="toiletEN">Where is the toilet?</string>
+    <string name="englishEN">Do you speak English?</string>
+    <string name="noUnderstandEN">I am sorry, I do not understand</string>
+    <string name="billEN">Bill, please</string>
+    <string name="placeEN">I want to go to…</string>
+    <string name="reset">reset</string>
+    <string name="audio_button">audio button</string>
+
+    <string name="helloCHN">你好</string>
+    <string name="helloJPN">こんにちは</string>
+    <string name="helloMYN">မင်္ဂလာပါ</string>
+
+</resources>
