@@ -20,8 +20,7 @@
             android:layout_height="45dp"
             android:layout_marginTop="10dp"
             android:layout_marginBottom="10dp"
-            android:layout_weight="1.0"
-            android:entries="@array/translateFrom" />
+            android:layout_weight="1.0" />
 
         <Spinner
             android:id="@+id/translateTo"
@@ -29,8 +28,7 @@
             android:layout_height="45dp"
             android:layout_marginTop="10dp"
             android:layout_marginBottom="10dp"
-            android:layout_weight="1.0"
-            android:entries="@array/translateTo" />
+            android:layout_weight="1.0" />
     </LinearLayout>
 
     <LinearLayout
@@ -236,16 +234,9 @@
             android:icon="@drawable/audio_icon"/>
     </LinearLayout>
 
-    <Button
-        android:id="@+id/reset"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_gravity="end"
-        android:text="@string/reset" />
-
     <android.support.design.widget.BottomNavigationView
         android:id="@+id/navigation"
-        android:layout_width="0dp"
+        android:layout_width="365dp"
         android:layout_height="wrap_content"
         android:layout_marginStart="0dp"
         android:layout_marginEnd="0dp"
